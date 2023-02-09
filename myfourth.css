@@ -1,0 +1,97 @@
+body{
+    background-color: #d9d9d9 !important;
+}
+.navbar{
+    padding: 0px 10px !important;
+    background-color: #4d4d4d;
+}
+input[type=search]{
+    padding: 0px 0px !important;
+    outline: none;    
+}
+input:focus{
+    outline:none ;
+}
+.mycntr{ 
+    width: 97% !important;
+    margin-top: 10px !important;
+}
+/* Navbar End */
+
+.container-fluid{
+    width: 97% !important;
+}
+
+.card {
+    position: relative;
+    padding-top: 0;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.img-thumbnail{
+    border: none !important;
+    padding: 0px 0px !important;
+    margin: 0px 0px !important;
+    border-radius: 0px !important;
+}
+.avatar{
+    position: relative;
+    top: -50px;
+    margin-bottom: -50px;
+}
+.avatar img {
+    width: 100px;
+    height: 100px;
+    max-width: 100px;
+    max-height: 100px;
+    border: 3px solid white;
+}
+.mytext h5 {
+    overflow: hidden;
+    font-size: 17px;
+    line-height: 20px;
+}
+.mytext p{
+    font-size: 11px;
+    padding: 0 10px;
+}
+.text2 p{
+    margin-top: -10px;
+}
+/* Left First Column End */
+
+.mylist{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    font-size: 15px;
+}
+.mylist li{
+    padding: 5px 0;
+}
+/* Left Second Column End */
+
+.btspicturev .col-sm-6 {
+    padding: 3px 3px !important;
+    text-align: center !important;
+}
+.btspicturev img{
+    height: 120px;
+    width: 200px;
+    object-fit: cover !important;
+}
+/* Left Third Column End */
+
+.form-control{
+    width: 90% !important;
+    display: inline-block !important;
+    box-sizing: border-box !important;
+}
+/* Center First Section End */
+
+.lastlist li{
+    display: inline-block;
+    list-style: none;
+    font-size: 13px;
+}
+/* Footer last section End */
